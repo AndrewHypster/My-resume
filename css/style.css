@@ -16,6 +16,7 @@ body{
     flex-direction: row-reverse;
     width: 1200px;
     margin: auto;
+    margin-right: 40px;
     justify-content: left;
     /* background: linear-gradient(102deg, #fffbe2 25%, #fff 85%); */
 }
