@@ -147,7 +147,7 @@ img {
     color: #161D2A;
 }
 
-/* Background geometry */
+/* Background */
 .background img{
     position: absolute;
     z-index: -1;          /* ставить на задній фон */
