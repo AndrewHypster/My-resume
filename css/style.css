@@ -16,7 +16,7 @@ body{
     flex-direction: row-reverse;
     width: 1200px;
     margin: auto;
-    justify-content: left;
+/*     justify-content: left; */
     margin-right: 40px;
 }
 
