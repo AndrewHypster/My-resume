@@ -55,8 +55,7 @@ ul, ol {
 
 /* Main content */
 .main-content {
-    margin-left: 88px;
-    padding: 88px;
+    margin: 88px;
     width: 525px;
 }
 
