@@ -151,7 +151,7 @@ img {
     position: absolute;
     z-index: -1;          /* ставить на задній фон */
     margin-left: 370px;
-    width: 0px;
+/*     width: 0px; */
     height: 1192px;
     background: linear-gradient(102deg, #fffbe2 25%, #fff 85%);
 }
