@@ -17,6 +17,7 @@ body{
     width: 1200px;
     margin: auto;
     justify-content: left;
+    /* background: linear-gradient(102deg, #fffbe2 25%, #fff 85%); */
 }
 
 .wrapper:hover {
@@ -151,7 +152,7 @@ img {
     position: absolute;
     z-index: -1;          /* ставить на задній фон */
     margin-left: 370px;
-/*     width: 0px; */
+    width: 830px;
     height: 1192px;
     background: linear-gradient(102deg, #fffbe2 25%, #fff 85%);
 }
